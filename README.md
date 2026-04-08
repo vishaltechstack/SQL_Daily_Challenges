@@ -14,7 +14,7 @@ This repository is a collection of daily SQL problems along with their solutions
 ---
 
 ## 📂 Repository Structure
-
+```
 sql-daily-challenges/
 │
 ├── Day-01/
@@ -26,7 +26,7 @@ sql-daily-challenges/
 │ └── solution.sql
 │
 └── ...
-
+```
 Each folder contains:
 - Problem statement  
 - SQL solution  
